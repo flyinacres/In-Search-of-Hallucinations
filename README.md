@@ -1,6 +1,6 @@
 # In Search of Hallucinations: GPT-2 Attention Analysis
 
-Companion notebook to the blog series [In Search of Hallucinations]([[https://rfischer.com](https://rfischer.com/in-search-of-hallucinations-part-1/)]) at rfischer.com. The series documents a hands-on investigation into whether internal model signals -- attention entropy, Gini coefficient, head disagreement, and hidden state variance -- can detect hallucinations at inference time without ground truth labels.
+Companion notebook to the blog series [In Search of Hallucinations](https://rfischer.com/in-search-of-hallucinations-part-1/). The series documents a hands-on investigation into whether internal model signals -- attention entropy, Gini coefficient, head disagreement, and hidden state variance -- can detect hallucinations at inference time without ground truth labels.
 
 The short answer is that no reliable signal was found. The notebook is published anyway because the methodology, the things that went wrong, and the reasons they went wrong are worth documenting.
 
